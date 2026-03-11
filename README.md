@@ -26,6 +26,8 @@ Focus areas:
 - `docs/security/security-and-agentic-coding.md`
 - `docs/quality/code-quality-with-agents.md`
 - `docs/commands/command-design.md`
+- `docs/tools/custom-tools-in-claude-code.md`
+- `docs/reviews/thorough-review-2026-03-11.md`
 - `docs/workflows/agentic-coding-workflow.md`
 - `docs/workflows/documentation-update-best-practice.md`
 - `docs/templates/` (spec/plan/subagent/review templates)
