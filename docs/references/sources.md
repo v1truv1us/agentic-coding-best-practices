@@ -67,3 +67,4 @@ Key areas incorporated into this repo:
 - This repo includes timestamped review artifacts:
   - `docs/reviews/thorough-review-2026-03-11.md`
   - `docs/reviews/social-claim-verification-table.md`
+  - `docs/reviews/verification-checklist.md`

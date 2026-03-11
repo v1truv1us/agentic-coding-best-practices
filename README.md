@@ -29,6 +29,7 @@ Focus areas:
 - `docs/tools/custom-tools-in-claude-code.md`
 - `docs/reviews/thorough-review-2026-03-11.md`
 - `docs/reviews/social-claim-verification-table.md`
+- `docs/reviews/verification-checklist.md`
 - `docs/workflows/agentic-coding-workflow.md`
 - `docs/workflows/documentation-update-best-practice.md`
 - `docs/templates/` (spec/plan/subagent/review templates)
