@@ -163,6 +163,14 @@ See repo root `presentation/` for architect-ready slides.
 
 ---
 
+## Beginner architect track
+
+- `beginner/software-architect-starter-guide.md`
+- `beginner/first-7-days-adoption-plan.md`
+- `beginner/architect-faq.md`
+
+---
+
 ## Suggested reading paths
 
 ### 10-minute path

@@ -24,6 +24,9 @@ Focus areas:
 Start here: `docs/INDEX.md`
 
 Universal baseline: `docs/UNIVERSAL-PRINCIPLES.md`
+- `docs/beginner/software-architect-starter-guide.md`
+- `docs/beginner/first-7-days-adoption-plan.md`
+- `docs/beginner/architect-faq.md`
 - `docs/architecture/architect-guide.md`
 - `docs/architecture/action-space-and-tool-design.md`
 - `docs/planning/plan-mode-and-spec-driven-development.md`

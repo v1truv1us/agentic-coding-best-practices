@@ -13,6 +13,7 @@ Use this checklist for monthly/quarterly refresh passes.
 - [ ] Add evidence links for any status changes
 
 ## 3) Coverage integrity
+- [ ] Ensure beginner architect onboarding docs are current (`docs/beginner/*`)
 - [ ] Ensure each major domain has a current doc:
   - planning, context, subagents, commands, skills,
   - security, quality, workflows, settings/permissions/sandbox
