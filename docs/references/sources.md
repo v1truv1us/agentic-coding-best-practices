@@ -54,6 +54,9 @@ Key areas incorporated into this repo:
   - specific thread: https://x.com/bcherny/status/2017742741636321619
   - summarized doc basis: tips/claude-boris-tips-feb-26.md (from reference repo)
   - local synthesis: `docs/claude-code/boris-thread-2017742741636321619.md`
+- Guri Singh post referencing Boris workflow:
+  - https://x.com/heygurisingh/status/2025572300658287030
+  - local synthesis: `docs/claude-code/heygurisingh-thread-2025572300658287030.md`
 
 ## Notes
 - Community content quality varies; use it for patterns and field signals, not as sole source of truth.

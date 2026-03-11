@@ -36,6 +36,7 @@ Focus areas:
 - `docs/claude-code/settings-permissions-and-sandbox.md`
 - `docs/claude-code/usage-limits-and-cost-controls.md`
 - `docs/claude-code/boris-thread-2017742741636321619.md`
+- `docs/claude-code/heygurisingh-thread-2025572300658287030.md`
 - `docs/references/sources.md`
 - `presentation/` (architect-ready slide files)
 
