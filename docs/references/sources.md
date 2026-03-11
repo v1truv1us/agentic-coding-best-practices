@@ -51,7 +51,9 @@ Key areas incorporated into this repo:
   https://x.com/RLanceMartin/status/2027450018513490419
 - Boris Cherny customization best-practices references:
   - https://x.com/bcherny
+  - specific thread: https://x.com/bcherny/status/2017742741636321619
   - summarized doc basis: tips/claude-boris-tips-feb-26.md (from reference repo)
+  - local synthesis: `docs/claude-code/boris-thread-2017742741636321619.md`
 
 ## Notes
 - Community content quality varies; use it for patterns and field signals, not as sole source of truth.

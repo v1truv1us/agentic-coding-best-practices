@@ -35,6 +35,7 @@ Focus areas:
 - `docs/claude-code/memory-and-context-loading.md`
 - `docs/claude-code/settings-permissions-and-sandbox.md`
 - `docs/claude-code/usage-limits-and-cost-controls.md`
+- `docs/claude-code/boris-thread-2017742741636321619.md`
 - `docs/references/sources.md`
 - `presentation/` (architect-ready slide files)
 
