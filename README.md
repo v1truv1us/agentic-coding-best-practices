@@ -18,6 +18,7 @@ Focus areas:
 
 ## Docs map
 - `docs/architecture/architect-guide.md`
+- `docs/architecture/action-space-and-tool-design.md`
 - `docs/planning/plan-mode-and-spec-driven-development.md`
 - `docs/skills/skills-best-practices.md`
 - `docs/context/context-management.md`

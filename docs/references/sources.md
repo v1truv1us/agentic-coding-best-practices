@@ -40,6 +40,16 @@ Key areas incorporated into this repo:
 - Usage/rate-limit and extra-usage operational considerations
 - Tool-use optimization notes (programmatic tool calling context)
 
+## X / article references incorporated
+- Ihtesham / Claude Code tool-design article text (shared in chat):
+  - Action-space design as capability-shaped
+  - Elicitation via structured question tooling
+  - Todo->Task evolution for multi-agent coordination
+  - Progressive disclosure to avoid tool sprawl
+  - High bar for adding new tools
+- RLanceMartin reference on programmatic tool calling:
+  https://x.com/RLanceMartin/status/2027450018513490419
+
 ## Notes
 - Community content quality varies; use it for patterns and field signals, not as sole source of truth.
 - For production policy, prioritize vendor docs + internal standards + testing evidence.
