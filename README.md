@@ -17,12 +17,19 @@ Focus areas:
 - AI engineering leads
 
 ## Docs map
+- `docs/architecture/architect-guide.md`
+- `docs/planning/plan-mode-and-spec-driven-development.md`
 - `docs/skills/skills-best-practices.md`
 - `docs/context/context-management.md`
 - `docs/subagents/subagent-orchestration.md`
+- `docs/security/security-and-agentic-coding.md`
+- `docs/quality/code-quality-with-agents.md`
 - `docs/commands/command-design.md`
 - `docs/workflows/agentic-coding-workflow.md`
+- `docs/templates/` (spec/plan/subagent/review templates)
+- `docs/playbooks/` (greenfield/refactor/PR review)
 - `docs/references/sources.md`
+- `presentation/` (architect-ready slide files)
 
 ## Quick start
 1. Read `docs/workflows/agentic-coding-workflow.md`
