@@ -27,6 +27,7 @@ Focus areas:
 - `docs/quality/code-quality-with-agents.md`
 - `docs/commands/command-design.md`
 - `docs/workflows/agentic-coding-workflow.md`
+- `docs/workflows/documentation-update-best-practice.md`
 - `docs/templates/` (spec/plan/subagent/review templates)
 - `docs/playbooks/` (greenfield/refactor/PR review)
 - `docs/claude-code/memory-and-context-loading.md`

@@ -26,4 +26,16 @@
 - Spec required for medium/high complexity changes
 - Human review required for risky scopes
 - Logging required for all automated edits
+- **Documentation update required for non-trivial changes**
 - Quarterly policy review based on incidents and KPI trends
+
+## Boris Cherny-aligned operator posture
+Use these as practical defaults (from Claude Code creator guidance):
+- Tune terminal/UX ergonomics (`/config`, `/terminal-setup`, `/vim`)
+- Set effort intentionally (`/model`: low/medium/high)
+- Use plugins/MCP/skills strategically, not indiscriminately
+- Create custom agents with explicit tools and permission modes
+- Pre-approve safe permissions; keep strong deny rules
+- Enable sandboxing where feasible
+- Use hooks for deterministic lifecycle automation
+- Standardize team settings in version-controlled config

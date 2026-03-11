@@ -49,6 +49,9 @@ Key areas incorporated into this repo:
   - High bar for adding new tools
 - RLanceMartin reference on programmatic tool calling:
   https://x.com/RLanceMartin/status/2027450018513490419
+- Boris Cherny customization best-practices references:
+  - https://x.com/bcherny
+  - summarized doc basis: tips/claude-boris-tips-feb-26.md (from reference repo)
 
 ## Notes
 - Community content quality varies; use it for patterns and field signals, not as sole source of truth.
