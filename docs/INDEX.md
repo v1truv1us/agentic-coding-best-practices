@@ -72,6 +72,10 @@ This index maps each section to its purpose and source alignment.
 **Purpose:** usage and spend control strategy.  
 **Primary references:** usage docs + reference-repo rate-limit/overflow analysis.
 
+### `claude-code/official-page-alignment.md`
+**Purpose:** explicit mapping between this repo and official Claude Code pages (best-practices/security/third-party-integrations).  
+**Primary references:** official Claude Code docs.
+
 ### `claude-code/boris-thread-2017742741636321619.md`
 **Purpose:** Boris thread synthesis with full sub-thread takeaways.  
 **Primary references:** X root post + ThreadReader unroll.

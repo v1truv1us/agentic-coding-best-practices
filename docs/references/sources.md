@@ -2,6 +2,18 @@
 
 ## Anthropic documentation
 - Claude API docs home: https://docs.anthropic.com/docs/en/home
+
+## Claude Code official docs (explicitly aligned)
+- Best practices: https://code.claude.com/docs/en/best-practices
+- Security: https://code.claude.com/docs/en/security
+- Third-party integrations: https://code.claude.com/docs/en/third-party-integrations
+- Settings: https://code.claude.com/docs/en/settings
+- Permissions: https://code.claude.com/docs/en/permissions
+- Sandboxing: https://code.claude.com/docs/en/sandboxing
+- Hooks: https://code.claude.com/docs/en/hooks
+- Skills: https://code.claude.com/docs/en/skills
+- Sub-agents: https://code.claude.com/docs/en/sub-agents
+- Memory: https://code.claude.com/docs/en/memory
 - Prompt engineering overview: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 - Prompting best practices: https://docs.anthropic.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 - Tool use overview: https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview
