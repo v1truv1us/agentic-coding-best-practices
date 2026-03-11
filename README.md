@@ -28,6 +28,9 @@ Focus areas:
 - `docs/workflows/agentic-coding-workflow.md`
 - `docs/templates/` (spec/plan/subagent/review templates)
 - `docs/playbooks/` (greenfield/refactor/PR review)
+- `docs/claude-code/memory-and-context-loading.md`
+- `docs/claude-code/settings-permissions-and-sandbox.md`
+- `docs/claude-code/usage-limits-and-cost-controls.md`
 - `docs/references/sources.md`
 - `presentation/` (architect-ready slide files)
 

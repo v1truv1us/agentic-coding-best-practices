@@ -30,6 +30,16 @@
 - Example: Every Agent Needs a Box
   https://www.latent.space/p/box
 
+## Additional reference repository (followed)
+- shanraisshan/claude-code-best-practice:
+  https://github.com/shanraisshan/claude-code-best-practice
+
+Key areas incorporated into this repo:
+- Skills, subagents, commands, memory loading patterns
+- Settings hierarchy, permissions, sandboxing guidance
+- Usage/rate-limit and extra-usage operational considerations
+- Tool-use optimization notes (programmatic tool calling context)
+
 ## Notes
 - Community content quality varies; use it for patterns and field signals, not as sole source of truth.
 - For production policy, prioritize vendor docs + internal standards + testing evidence.
