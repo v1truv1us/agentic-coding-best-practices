@@ -52,6 +52,9 @@ Key areas incorporated into this repo:
 - Boris Cherny customization best-practices references:
   - https://x.com/bcherny
   - specific thread: https://x.com/bcherny/status/2017742741636321619
+  - thread unroll: https://threadreaderapp.com/thread/2017742741636321619.html
+  - 12-customization thread: https://x.com/bcherny/status/2021699851499798911
+  - thread unroll: https://threadreaderapp.com/thread/2021699851499798911.html
   - summarized doc basis: tips/claude-boris-tips-feb-26.md (from reference repo)
   - local synthesis: `docs/claude-code/boris-thread-2017742741636321619.md`
 - Guri Singh post referencing Boris workflow:
