@@ -64,4 +64,6 @@ Key areas incorporated into this repo:
 ## Notes
 - Community content quality varies; use it for patterns and field signals, not as sole source of truth.
 - For production policy, prioritize vendor docs + internal standards + testing evidence.
-- This repo includes a timestamped audit pass: `docs/reviews/thorough-review-2026-03-11.md`.
+- This repo includes timestamped review artifacts:
+  - `docs/reviews/thorough-review-2026-03-11.md`
+  - `docs/reviews/social-claim-verification-table.md`
