@@ -2,6 +2,16 @@
 
 This index maps each section to its purpose and source alignment.
 
+Universal baseline first: `UNIVERSAL-PRINCIPLES.md`.
+
+## 0) Universal Baseline
+
+### `UNIVERSAL-PRINCIPLES.md`
+**Purpose:** vendor-neutral principles that should hold across agentic coding platforms.  
+**Primary references:** cross-platform software architecture and operations discipline, aligned with official Claude docs where applicable.
+
+---
+
 ## 1) Architecture
 
 ### `architecture/architect-guide.md`
@@ -75,6 +85,10 @@ This index maps each section to its purpose and source alignment.
 ### `claude-code/official-page-alignment.md`
 **Purpose:** explicit mapping between this repo and official Claude Code pages (best-practices/security/third-party-integrations).  
 **Primary references:** official Claude Code docs.
+
+### `claude-code/official-doc-coverage-matrix.md`
+**Purpose:** broad mapping between official Claude Code documentation areas and repository sections.  
+**Primary references:** official Claude Code docs across core, build, config, security, and deployment.
 
 ### `claude-code/boris-thread-2017742741636321619.md`
 **Purpose:** Boris thread synthesis with full sub-thread takeaways.  

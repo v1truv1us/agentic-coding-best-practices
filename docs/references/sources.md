@@ -7,13 +7,26 @@
 - Best practices: https://code.claude.com/docs/en/best-practices
 - Security: https://code.claude.com/docs/en/security
 - Third-party integrations: https://code.claude.com/docs/en/third-party-integrations
+- How Claude Code works: https://code.claude.com/docs/en/how-claude-code-works
+- Common workflows: https://code.claude.com/docs/en/common-workflows
 - Settings: https://code.claude.com/docs/en/settings
 - Permissions: https://code.claude.com/docs/en/permissions
 - Sandboxing: https://code.claude.com/docs/en/sandboxing
 - Hooks: https://code.claude.com/docs/en/hooks
+- Hooks guide: https://code.claude.com/docs/en/hooks-guide
 - Skills: https://code.claude.com/docs/en/skills
 - Sub-agents: https://code.claude.com/docs/en/sub-agents
 - Memory: https://code.claude.com/docs/en/memory
+- Authentication: https://code.claude.com/docs/en/authentication
+- Monitoring usage: https://code.claude.com/docs/en/monitoring-usage
+- Costs: https://code.claude.com/docs/en/costs
+- Data usage: https://code.claude.com/docs/en/data-usage
+- Zero data retention: https://code.claude.com/docs/en/zero-data-retention
+- Network config: https://code.claude.com/docs/en/network-config
+- LLM gateway: https://code.claude.com/docs/en/llm-gateway
+- Amazon Bedrock: https://code.claude.com/docs/en/amazon-bedrock
+- Google Vertex AI: https://code.claude.com/docs/en/google-vertex-ai
+- Microsoft Foundry: https://code.claude.com/docs/en/microsoft-foundry
 - Prompt engineering overview: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
 - Prompting best practices: https://docs.anthropic.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices
 - Tool use overview: https://docs.anthropic.com/en/docs/agents-and-tools/tool-use/overview

@@ -2,6 +2,9 @@
 
 Practical best practices for building, operating, and scaling agentic coding workflows.
 
+> **Positioning:** This repository is **vendor-neutral first**. Claude Code docs are used as concrete implementation references, not as exclusive rules.
+
+
 Focus areas:
 - Skills design
 - Context management
@@ -19,6 +22,8 @@ Focus areas:
 ## Docs map
 
 Start here: `docs/INDEX.md`
+
+Universal baseline: `docs/UNIVERSAL-PRINCIPLES.md`
 - `docs/architecture/architect-guide.md`
 - `docs/architecture/action-space-and-tool-design.md`
 - `docs/planning/plan-mode-and-spec-driven-development.md`
@@ -40,9 +45,11 @@ Start here: `docs/INDEX.md`
 - `docs/claude-code/settings-permissions-and-sandbox.md`
 - `docs/claude-code/usage-limits-and-cost-controls.md`
 - `docs/claude-code/official-page-alignment.md`
+- `docs/claude-code/official-doc-coverage-matrix.md`
 - `docs/claude-code/boris-thread-2017742741636321619.md`
 - `docs/claude-code/heygurisingh-thread-2025572300658287030.md`
 - `docs/references/sources.md`
+- `docs/UNIVERSAL-PRINCIPLES.md`
 - `presentation/` (architect-ready slide files)
 
 ## Quick start

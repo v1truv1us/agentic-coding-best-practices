@@ -1,5 +1,7 @@
 # Architect Guide to Agentic Coding Adoption
 
+> This guide is vendor-neutral. Claude Code examples are implementation references, not hard dependency.
+
 ## Objectives
 - Increase delivery speed without sacrificing reliability
 - Standardize quality/security controls across teams
