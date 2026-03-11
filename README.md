@@ -17,6 +17,8 @@ Focus areas:
 - AI engineering leads
 
 ## Docs map
+
+Start here: `docs/INDEX.md`
 - `docs/architecture/architect-guide.md`
 - `docs/architecture/action-space-and-tool-design.md`
 - `docs/planning/plan-mode-and-spec-driven-development.md`
