@@ -9,10 +9,10 @@ Access and edit repo markdown files from your phone.
 
 ## Setup steps
 1. In Working Copy, clone:
-   `https://github.com/v1truv1us/agentic-coding-best-practices`
+   `https://github.com/v1truv1us/agentic-notes`
 2. In Working Copy, open share menu -> "Open in Obsidian" (vault root)
 3. In Obsidian mobile, open the vault
-4. Use `notes/` as your mobile editing area
+4. Edit directly in vault folders (`daily/`, `articles/`, `presentations/`, `references/`)
 5. Commit/push from Working Copy after edits
 
 ## Desktop setup
@@ -21,9 +21,9 @@ Access and edit repo markdown files from your phone.
 3. Optional: install Obsidian Git plugin for one-click sync
 
 ## Recommended conventions
-- Keep phone edits mostly in `notes/`
-- Promote polished content into `docs/` via PR/commit review
-- Use short daily captures in `notes/daily/YYYY-MM-DD.md`
+- Keep mobile-first content in the dedicated `agentic-notes` vault
+- Promote polished content into this repo's `docs/` via PR/commit review
+- Use short daily captures in `daily/YYYY-MM-DD.md`
 
 ## Quick commands
 - Pull latest before writing
