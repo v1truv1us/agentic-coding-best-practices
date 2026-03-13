@@ -60,6 +60,7 @@ Universal baseline: `docs/UNIVERSAL-PRINCIPLES.md`
 2. Adopt checklist in `docs/context/context-management.md`
 3. Add orchestration guardrails from `docs/subagents/subagent-orchestration.md`
 4. Standardize command contracts in `docs/commands/command-design.md`
+5. For phone access/setup, see `docs/beginner/obsidian-mobile-setup.md` and `notes/INDEX.md`
 
 ## Design principle
 **Model output is not the product. Reliable execution pipelines are the product.**
