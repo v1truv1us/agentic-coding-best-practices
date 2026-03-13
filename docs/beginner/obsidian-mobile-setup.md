@@ -3,6 +3,8 @@
 ## Goal
 Access and edit repo markdown files from your phone.
 
+**Default destination policy:** Save new writing in `agentic-notes` by default.
+
 ## iOS recommended stack
 - Obsidian app
 - Working Copy app (Git client)
@@ -21,9 +23,10 @@ Access and edit repo markdown files from your phone.
 3. Optional: install Obsidian Git plugin for one-click sync
 
 ## Recommended conventions
-- Keep mobile-first content in the dedicated `agentic-notes` vault
+- Keep mobile-first content in the dedicated `agentic-notes` vault (default)
 - Promote polished content into this repo's `docs/` via PR/commit review
 - Use short daily captures in `daily/YYYY-MM-DD.md`
+- Keep `agentic-notes/WORKFLOW.md` as canonical writing policy
 
 ## Quick commands
 - Pull latest before writing
